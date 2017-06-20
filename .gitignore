@@ -1,0 +1,7 @@
+
+Saved/Config/Windows/SourceControlSettings.ini
+Saved/Config/Windows/Editor.ini
+*.bin
+Saved/Backup/*.*
+Saved/Logs/
+Saved/Autosaves/Game/Levels/*.*
